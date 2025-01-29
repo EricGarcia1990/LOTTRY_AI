@@ -18,15 +18,23 @@ Weekly draws are executed via Chainlink VRF, ensuring verifiable randomness.
 AI Agents trigger prize distribution and execute payouts autonomously.
 
 Transparent Payouts & Rewards 💰
+
 90% of ticket sales go directly to the prize pool.
+
 Winners receive automatic payouts on their preferred chain.
+
 $LTRY token stakers earn yield from treasury rewards.
 
 🛠 Tech Stack
+
 AI Agent System: Crossmint AI Agents
+
 Smart Wallet Management: Crossmint API
+
 Multi-Chain Payments: LayerZero Integration
+
 Provably Fair Draws: Chainlink VRF
+
 Automated On/Off-Ramps: Crossmint Fiat On-Ramp & Off-Ramp
 
 
