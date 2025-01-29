@@ -1,9 +1,11 @@
 LOTTRY AI - The First AI Agent-Run Lottery System 🎟️🤖
+
 LOTTRY is the first fully AI Agent-operated lottery system, leveraging autonomous agents to create, fund, and manage user wallets seamlessly. By integrating Crossmint's AI Agents, LOTTRY ensures a frictionless and transparent lottery experience, improving fairness and increasing winning odds.
 
 🔧 How It Works
 
 AI Agent-Generated Wallets 🏦
+
 Users interact with an AI Agent that creates a non-custodial smart wallet.
 Wallets are funded via fiat (Crossmint) or multi-chain crypto (LayerZero).
 
