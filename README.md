@@ -1,46 +1,4 @@
-LOTTRY AI - The First AI Agent-Run Lottery System 🎟️🤖
+LOTTRY AI - The First AI Agent-Run Lottery 🎟️🤖
 
-LOTTRY is the first fully AI Agent-operated lottery system, leveraging autonomous agents to create, fund, and manage user wallets seamlessly. By integrating Crossmint's AI Agents, LOTTRY ensures a frictionless and transparent lottery experience, improving fairness and increasing winning odds.
-
-🔧 How It Works
-
-AI Agent-Generated Wallets 🏦
-
-Users interact with an AI Agent that creates a non-custodial smart wallet.
-Wallets are funded via fiat (Crossmint) or multi-chain crypto (LayerZero).
-
-Automated Lottery Participation 🎟
-AI Agents track wallet balances and ensure funds are available for ticket purchases.
-Users can opt for one-time entries or auto-subscriptions.
-
-On-Chain Fairness & Execution 🔗
-Weekly draws are executed via Chainlink VRF, ensuring verifiable randomness.
-AI Agents trigger prize distribution and execute payouts autonomously.
-
-Transparent Payouts & Rewards 💰
-
-90% of ticket sales go directly to the prize pool.
-
-Winners receive automatic payouts on their preferred chain.
-
-$LTRY token stakers earn yield from treasury rewards.
-
-🛠 Tech Stack
-
-AI Agent System: Crossmint AI Agents
-
-Smart Wallet Management: Crossmint API
-
-Multi-Chain Payments: LayerZero Integration
-
-Provably Fair Draws: Chainlink VRF
-
-Automated On/Off-Ramps: Crossmint Fiat On-Ramp & Off-Ramp
-
-
-🤝 Contributing
-We welcome contributors! Open a PR or discuss in our community forum.
-
-📜 License
-MIT License
+LOTTRY uses AI Agents to create, fund, and manage wallets, ensuring automated, fair, and transparent lottery participation. Wallets are generated via Crossmint, payments processed through LayerZero, and draws executed using Chainlink VRF for verifiable randomness. 90% of ticket sales go to the prize pool, and winners receive automatic payouts on-chain. Built for scalability and fairness, LOTTRY is the next evolution in decentralized lotteries. 🚀
 
